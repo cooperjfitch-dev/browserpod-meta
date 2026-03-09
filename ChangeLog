@@ -1,4 +1,12 @@
-CheerpX: Sandboxed Dev Environments in any Browser
+BrowserPod: Universal in-browser sandbox
+
+Version 1.1.0:
+	* Support for most major frameworks: Next.js, Nuxt, Express, Svelte, React, ...
+	* Support HTTP compression via portals
+	* Support more system calls
+	* Improvements to process spawning and PATH handling
+	* Improvements to Worker support
+	* Report uncaught exceptions
 
 Version 1.0.0:
 	* Faster BrowserPod.boot()
