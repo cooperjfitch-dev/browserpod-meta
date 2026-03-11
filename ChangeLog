@@ -1,5 +1,8 @@
 BrowserPod: Universal in-browser sandbox
 
+Version 1.1.1:
+	* Fix a performance regression
+
 Version 1.1.0:
 	* Support for most major frameworks: Next.js, Nuxt, Express, Svelte, React, ...
 	* Support HTTP compression via portals
