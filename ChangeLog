@@ -1,5 +1,8 @@
 BrowserPod: Universal in-browser sandbox
 
+Version 1.1.2:
+	* Fix timestamping of OPFS devices
+
 Version 1.1.1:
 	* Fix a performance regression
 
