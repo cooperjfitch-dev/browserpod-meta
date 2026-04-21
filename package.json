@@ -4,5 +4,8 @@
     "packages/browserpod",
     "packages/browserpod-lt",
     "packages/browserpod-quickstart"
-  ]
+  ],
+  "dependencies": {
+    "browserpod": "^2.2.0"
+  }
 }
